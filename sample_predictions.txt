@@ -1,0 +1,122 @@
+SAMPLE PREDICTIONS – SMS SPAM DETECTION
+======================================================================
+
+[01] TEXT    : ill meet library pm
+      TRUE    : HAM
+      LR      : HAM
+      NB      : HAM
+      LSTM    : HAM
+
+[02] TEXT    : win cash prize luxury trip barbados enter txt win
+      TRUE    : SPAM
+      LR      : SPAM
+      NB      : SPAM
+      LSTM    : HAM
+
+[03] TEXT    : free entry weekly comp win fa cup final tkts st may text fa receive entry reply ...
+      TRUE    : SPAM
+      LR      : SPAM
+      NB      : SPAM
+      LSTM    : HAM
+
+[04] TEXT    : sorry hear youre feeling well well soon
+      TRUE    : HAM
+      LR      : HAM
+      NB      : HAM
+      LSTM    : HAM
+
+[05] TEXT    : kids parents weekend peace quiet
+      TRUE    : HAM
+      LR      : HAM
+      NB      : HAM
+      LSTM    : HAM
+
+[06] TEXT    : finished assignment relieved thanks
+      TRUE    : HAM
+      LR      : HAM
+      NB      : HAM
+      LSTM    : HAM
+
+[07] TEXT    : finished assignment relieved
+      TRUE    : HAM
+      LR      : HAM
+      NB      : HAM
+      LSTM    : HAM
+
+[08] TEXT    : finished assignment relieved
+      TRUE    : HAM
+      LR      : HAM
+      NB      : HAM
+      LSTM    : HAM
+
+[09] TEXT    : thanks help yesterday really appreciate
+      TRUE    : HAM
+      LR      : HAM
+      NB      : HAM
+      LSTM    : HAM
+
+[10] TEXT    : home traffic terrible today cheers
+      TRUE    : HAM
+      LR      : HAM
+      NB      : HAM
+      LSTM    : HAM
+
+[11] TEXT    : private account statement shows unredeemed smiles call
+      TRUE    : SPAM
+      LR      : SPAM
+      NB      : SPAM
+      LSTM    : HAM
+
+[12] TEXT    : job starting next monday cheers
+      TRUE    : HAM
+      LR      : HAM
+      NB      : HAM
+      LSTM    : HAM
+
+[13] TEXT    : pick station pm thanks
+      TRUE    : HAM
+      LR      : HAM
+      NB      : HAM
+      LSTM    : HAM
+
+[14] TEXT    : six chances win cash pounds txt csh send cost pday call
+      TRUE    : SPAM
+      LR      : SPAM
+      NB      : SPAM
+      LSTM    : HAM
+
+[15] TEXT    : still coming wedding next weekend
+      TRUE    : HAM
+      LR      : HAM
+      NB      : HAM
+      LSTM    : HAM
+
+[16] TEXT    : kids parents weekend peace quiet
+      TRUE    : HAM
+      LR      : HAM
+      NB      : HAM
+      LSTM    : HAM
+
+[17] TEXT    : ill home late tonight dont wait dinner
+      TRUE    : HAM
+      LR      : HAM
+      NB      : HAM
+      LSTM    : HAM
+
+[18] TEXT    : finished assignment relieved thanks
+      TRUE    : HAM
+      LR      : HAM
+      NB      : HAM
+      LSTM    : HAM
+
+[19] TEXT    : forward email hotel details cheers
+      TRUE    : HAM
+      LR      : HAM
+      NB      : HAM
+      LSTM    : HAM
+
+[20] TEXT    : pick station pm thanks
+      TRUE    : HAM
+      LR      : HAM
+      NB      : HAM
+      LSTM    : HAM

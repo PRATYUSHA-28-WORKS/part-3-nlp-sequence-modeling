@@ -1,0 +1,4 @@
+Model,Accuracy,F1_Score,Precision,Recall
+Logistic Regression (TF-IDF),1.0,1.0,1.0,1.0
+Naive Bayes (BoW),1.0,1.0,1.0,1.0
+LSTM (Sequence),0.8664,0.0,0.0,0.0
